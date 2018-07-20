@@ -1,4 +1,6 @@
-hello there
 
+git init
 
-hello a second time
+git remote add origin https://bernparent@github.com/bernparent/hello.git
+
+./gitnewversion.sh 18jul20b
