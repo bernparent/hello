@@ -1,6 +1,22 @@
 
+TO CREATE NEW GITHUB PROJECT CALLED HELLO
+_________________________________________________________________________
+
+First, create an empty project on github with no README file and
+no .gitignore file
+
+Then, on the local computer create a new directory called hello and type:
+
 git init
-
 git remote add origin https://bernparent@github.com/bernparent/hello.git
-
 ./gitnewversion.sh 18jul20b
+
+
+
+TO CLONE AN EXISTING GITHUB PROJECT CALLED HELLO
+_________________________________________________________________________
+
+On the local computer, type
+
+git clone https://github.com/bernparent/hello
+
